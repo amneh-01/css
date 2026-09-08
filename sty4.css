@@ -1,0 +1,49 @@
+body {
+    background-color: #faf5f0;
+    font-family: serif;
+    padding: 20px;
+}
+
+.hl-orange {
+            background-color: #e6b788;
+            font-weight: bold;
+        }
+
+        .hl-yellow {
+            background-color: #ececb2;
+            font-weight: bold;
+    
+        }
+
+.box-1 {
+    background-color: white;
+    border: 1px solid #555;
+    padding: 15px;
+    margin-bottom: 25px;
+    width: 70%;
+}
+
+.box-2 {
+    background-color: white;
+    border: 1px dashed #333; 
+    padding: 15px;
+    margin-bottom: 25px;
+    width: 70%;
+}
+
+.red-border {
+    border: 1px dashed red; 
+}
+
+.box-3 {
+    background-color: white;
+    border: 1px solid #555; 
+    color: purple; 
+    padding: 15px;
+    margin-bottom: 25px;
+    width: 70%;
+}
+
+.box-3 h2 {
+    color: purple; 
+}
