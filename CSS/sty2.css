@@ -11,12 +11,12 @@ font-weight: bold;
 }
 
 .p1{ 
-    font-family: Arial, sans-serif;
+    font-family: Arial;
   }
   
 .p2{
-    font-family: 'Courier New', Courier, monospace;
-    color: #123f15; /* لون أخضر غامق */
+    font-family: monospace;
+    color: #123f15; 
     font-weight: normal;
     font-style: normal;
      text-align: right;
